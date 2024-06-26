@@ -83,6 +83,12 @@ You can click the Preview link to take a look at your changes.
   <!-- Shell Scripting -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="shell scripting logo" />
   <img width="12" />
+
+  <!-- scikit-learn logo -->
+<a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="scikit-learn logo">
+</a>
+
 </div>
 
 ###
