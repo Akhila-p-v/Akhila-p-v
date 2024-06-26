@@ -42,6 +42,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.tableau.com/favicon.ico" height="40" alt="tableau public logo" />
   <img width="12" />
 
+  <!-- HTML Logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+<img width="12" />
+
+<!-- CSS Logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
+<img width="12" />
+
+
 
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
