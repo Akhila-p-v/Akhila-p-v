@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">My name is Akhila P V and I am certified in Data Science and Analytics.</p>
+<p align="left">My name is Akhila P V and I am a Certified Specialist in Data Science and Analytics.</p>
 
 
 <h2 align="left">About me</h2>
